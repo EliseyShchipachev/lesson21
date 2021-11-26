@@ -1,0 +1,41 @@
+.uk-card-title{
+text-align: center;
+}
+.uk-text-meta{
+text-align: center;
+}
+.uk-width-auto{
+padding-left: 100px;
+}
+.image{
+width: 20px;
+height: 20px;
+margin-left: 20px;
+margin-right: 20px;
+}
+.uk-card{
+display: inline-block;
+margin-left: 2%;
+margin-right: 2%;
+margin-top: 1%;
+}
+.uk-width-auto{
+transition: 1s; 
+justify-content: center;
+justify-content: center;
+align-content: center;
+align-items: center;
+}
+.uk-card-footer{
+    justify-content: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.uk-width-auto:hover {
+ transform: scale(1.2); 
+}
+.cont{
+flex-wrap: wrap;
+}
+@media screen and( min-width: 320px)
